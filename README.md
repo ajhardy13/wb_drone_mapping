@@ -1,5 +1,5 @@
 # wb_drone_mapping
-## Implement open source object-based machine learning classificaiton of drone imagery
+## Implement open source object-based machine learning classification of drone imagery
 Python notebook for implementing extra trees classifier to drone imagery to map land cover types related to malarial mosqutio breeding sites. Code uses a range of open source libraries: rsgislib https://www.rsgislib.org/, pandas https://pandas.pydata.org/docs/index.html and gdal https://gdal.org/. 
 
 Refer to rsgislib documentation for bulk installation of these very useful libraries via conda.

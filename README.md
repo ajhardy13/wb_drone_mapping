@@ -7,4 +7,4 @@ The code is desinged to be run with your own data, i.e. a drone image/orthoimage
 
 Contact ajh13@aber.ac.uk for any queries.
 
-![alt text](https://github.com/ajhardy13/wb_drone_mapping/image.png?raw=true)
+![alt text](https://github.com/ajhardy13/wb_drone_mapping/blob/main/image.png?raw=true)
